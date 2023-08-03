@@ -3,7 +3,7 @@ Testing tracking algorithms
 
 OpenCV 4 comes with a tracking API that contains implementations of many single object tracking algorithms. There are 8 different trackers available in OpenCV 4.2 — BOOSTING, MIL, KCF, TLD, MEDIANFLOW, GOTURN, MOSSE, and CSRT.
 
-Project based on OpenCV 4.2
+Project based on OpenCV 4.2.0
 
 to compile from command line:     g++ Tracking.cpp -o Tracking `pkg-config --cflags --libs opencv4`
 
